@@ -1,7 +1,7 @@
 # Pedro Henrique
 
 Eterno aprendiz. <br>
-Analista Pleno na Fundação Itau Unibanco. <br>
+Analista Pleno de Previdência Complementar. <br>
 Atualmente estou em desenvolvimento na aprendizagem de Python para Análise de Dados e automatização de processos.<br>
 Aqui irei compartilhar alguns dos meus projetos e aprendizados... <br>
 
